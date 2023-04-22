@@ -1,4 +1,4 @@
-<h1 align="left">UNSUPERVISED MACHINE LEARNING<br><i>Topic: Cryptocurrency Forecasting</i> </h1> 
+<h1 align="left">UNSUPERVISED MACHINE LEARNING<br><i>Topic: Cryptocurrency Trends Forecasting</i> </h1> 
 
 <p>This project aims to predict if cryptocurrencies are affected by 24-hour or 7-day price changes using unsupervised learning techniques.</p>
 
