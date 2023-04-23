@@ -4,7 +4,7 @@
 
 ## Data Science Methods
 - Data preprocessing and normalization using StandardScaler
-- Finding the best value for K using the elbow method
+- Finding the best value for K using the elbow method 
 - Clustering cryptocurrencies using K-means with original scaled data
 - Feature reduction using Principal Component Analysis (PCA)
 - Clustering cryptocurrencies using K-means with PCA data
