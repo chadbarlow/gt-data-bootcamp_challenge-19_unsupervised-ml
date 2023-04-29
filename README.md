@@ -10,6 +10,6 @@
 - Clustering cryptocurrencies using K-means with PCA data
 
 ## Limitations and Further Analysis
-- The dataset used in this project is static and may not reflect the current state of the market. Incorporating a dynamic dataset or real-time market data will improve the relevance of the analysis and provide a more accurate representation of the market trends.
+- The dataset used in this project is static and will not reflect the current state of the market. Incorporating a dynamic dataset or real-time market data will improve the relevance of the analysis and provide a more accurate representation of the market trends.
 - The clustering method used, K-means, may not be the most suitable for all types of data distributions. The project can be extended by using different clustering methods to compare the performance.
 - The PCA method reduces the features to a fixed number of principal components, which may lead to a loss of information. Other feature reduction methods can be explored to maintain more information while reducing the dimensionality of the dataset.
