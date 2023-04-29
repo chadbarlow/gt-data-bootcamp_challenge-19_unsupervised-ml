@@ -1,6 +1,6 @@
 <h1 align="left">UNSUPERVISED MACHINE LEARNING<br><i>Topic: Cryptocurrency Trends Forecasting</i> </h1> 
 
-<p>This project investigates fluctuations in price for various cryptocurrencies over time. It leverages unsupervised machine learning techniques to discern patterns in these fluctuations and subsequently groups cryptocurrencies into clusters to match these patterns. </p>
+<p>This project investigates price fluctuations of various cryptocurrencies over time. The project leverages unsupervised machine learning to discern patterns in these fluctuations and subsequently groups cryptocurrencies into clusters to match the patterns. </p>
 
 ## Data Science Methods
 - Data preprocessing and normalization using StandardScaler
