@@ -1,6 +1,6 @@
 <h1 align="left">UNSUPERVISED MACHINE LEARNING<br><i>Topic: Cryptocurrency Trends Forecasting</i> </h1> 
 
-<p>This project aims to predict if cryptocurrencies are affected by 24-hour or 7-day price changes using unsupervised learning techniques.</p>
+<p>This project analyzes cryptocurrency price changes over time. Specifically, the project employs unsupervised machine learning techniques to identify patterns in price changes over time and to group clusters of cryptocurrencies together accordingly.</p>
 
 ## Data Science Methods
 - Data preprocessing and normalization using StandardScaler
